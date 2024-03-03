@@ -33,7 +33,7 @@ class _MainPageState extends State<MainPage> {
     
     return Scaffold(
       appBar:  AppBar(
-        title: Text("HD Movie"),
+        title: const Text("HD Movie"),
       ),
       body: _viewModel.loading ? Center(child: CupertinoActivityIndicator()):_getTheData(),
     );

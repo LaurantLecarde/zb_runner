@@ -47,6 +47,9 @@ dependencies:
   provider: ^6.1.2
   carousel_slider: ^4.2.1
   animations: ^2.0.11
+  gap: ^3.0.1
+  expandable_text: ^2.3.0
+  youtube_player_flutter: ^8.1.2
 
 dev_dependencies:
   flutter_test:
