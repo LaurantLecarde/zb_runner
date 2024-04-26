@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:zb_runner/presentation/screen/home_page.dart';
-import 'package:zb_runner/presentation/screen/vid_screen.dart';
 import 'package:zb_runner/view_model/movie_view.dart';
 
 void main() {
